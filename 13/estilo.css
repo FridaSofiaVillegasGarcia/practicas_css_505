@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+body{
+    background: #000;
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    position: center;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size:60px;
+    margin:30px;
+    
+}
+h2{
+    font-size:20px;
+    color: rgb(107, 186, 206);
+    padding:20px;
+}
+img{
+    width:180px;
+    height:140px;
+    margin: 0;
+}
+#res{
+border: 2px solid whitesmoke;
+border-radius:30px;
+width:500px;
+height:520px;
+}
