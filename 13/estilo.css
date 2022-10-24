@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;  
+    position: center;
 }
 body{
     background: #000;
@@ -13,12 +14,12 @@ body{
 
 h1{
     font-family: 'Oswald', sans-serif;
-    font-size:60px;
-    margin:30px;
+    font-size:15px;
+    margin:20px;
     
 }
 h2{
-    font-size:20px;
+    font-size:40px;
     color: rgb(107, 186, 206);
     padding:20px;
 }
@@ -31,5 +32,9 @@ img{
 border: 2px solid whitesmoke;
 border-radius:30px;
 width:500px;
-height:520px;
+height:600px;
+position: center;
+}
+.a{
+    font-size:50px;
 }
