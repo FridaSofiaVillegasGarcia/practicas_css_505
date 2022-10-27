@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    
+}
+body{
+    background-size: 100% 1000px ;
+    text-align: center;
+    position: center;
+    background: rgb(190,142,245);
+background: linear-gradient(90deg, rgba(190,142,245,1) 23%, rgba(93,0,199,1) 71%);
+
+}
+
+#res{
+display: grid;
+grid-template-columns:1fr 1fr 1fr 1fr;
+grid-template-rows:auto;
+gap:30px;
+}
